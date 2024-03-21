@@ -1,0 +1,6 @@
+flask
+jinja
+flask_bootstrap
+flask_moment
+datetime
+flask-wtf
